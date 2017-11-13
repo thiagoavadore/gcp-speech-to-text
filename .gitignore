@@ -2,3 +2,4 @@
 *.flac
 *.txt
 .vscode
+!requirements.txt
